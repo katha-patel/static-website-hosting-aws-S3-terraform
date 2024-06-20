@@ -5,7 +5,8 @@ Developed a streamlined infrastructure for hosting a static website using Terraf
 This project serves as an excellent foundation for hosting various types of static websites, including personal blogs, portfolio sites, or small business websites.
 
 ## Overview:
-![Uploading overview-diagram.PNG…]()
+
+<img width="607" alt="overview-diagram" src="https://github.com/katha-patel/static-website-hosting-aws-S3-terraform/assets/42037306/61a252b0-ada4-4c16-a7f3-39e7f747ea45">
 
 
 
