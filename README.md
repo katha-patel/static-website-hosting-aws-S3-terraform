@@ -5,6 +5,7 @@ Developed a streamlined infrastructure for hosting a static website using Terraf
 This project serves as an excellent foundation for hosting various types of static websites, including personal blogs, portfolio sites, or small business websites.
 
 ## Overview:
+![Uploading overview-diagram.PNG…]()
 
 
 
